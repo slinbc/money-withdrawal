@@ -293,6 +293,5 @@ __pycache__/
 *.xsd.cs
 
 *vwd.webinfo
-/CLOC/Files
 
 !*.Designer.cs
